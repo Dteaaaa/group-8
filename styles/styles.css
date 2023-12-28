@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "Fruit Ninja (Simplified)";
+    src: url("https://db.onlinewebfonts.com/t/bf63971653bf20487a1904a0d4afd074.eot");
+    src: url("https://db.onlinewebfonts.com/t/bf63971653bf20487a1904a0d4afd074.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/bf63971653bf20487a1904a0d4afd074.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/bf63971653bf20487a1904a0d4afd074.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/bf63971653bf20487a1904a0d4afd074.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/bf63971653bf20487a1904a0d4afd074.svg#Fruit Ninja (Simplified)")format("svg");
+}
+.logo {
+    width: 45%;
+    margin-left: 3%;
+}
+.show_main {
+    float: right;
+    margin-right: 20%;
+}
+.member {
+    font-size: 100px;
+    font-family: "Fruit Ninja (Simplified)";
+}
+.button_goto {
+    background-color: black;
+    color: white;
+    transition-duration: 0.4s;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+    margin-bottom: 5%;
+}
+.button_goto:hover {
+    background-color: white;
+    color: black;
+}
+.img_viet {
+    width: 20%;
+    margin-left: 5%;
+    margin-top: 2%
+}
+.show {
+    float: right;
+}
+.name {
+    font-size: 100px;
+}
+.descript {
+    font-size: 20px;
+}
+.button_return {
+    background-color: black;
+    color: white;
+    transition-duration: 0.4s;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    float: right;
+}
+.button_return:hover {
+    background-color: white;
+    color: black;
+}
+.img_chien {
+    width: 20%;
+}
+.img_thinh {
+    width: 15%;
+    margin-left: 2%;
+}
